@@ -1,4 +1,8 @@
 {
 "DG": "Test",
-"Data Glacier": "Cricket"
+"Data Glacier": "Cricket",
+"Havya Nimmagadda": "Patriots",
+"pytest test/test.py -s": "Cricket",
+"Havya ": "Football",
+"Havya": "Football"
 }
